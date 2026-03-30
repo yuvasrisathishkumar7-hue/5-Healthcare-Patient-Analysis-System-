@@ -85,3 +85,10 @@ Ensured correct data types for numeric columns
 RISK CLASSIFICATION
 
 Patients are classified into three categories based on health parameters:
+
+| RISK LEVEL  | DESCRIPTION              |
+| ----------- | ------------------------ |
+| Low Risk    | Normal health values     |
+| Medium Risk | Slightly elevated values |
+| High Risk   | Dangerous health levels  |
+
