@@ -92,3 +92,9 @@ Patients are classified into three categories based on health parameters:
 | Medium Risk | Slightly elevated values |
 | High Risk   | Dangerous health levels  |
 
+HIGH RISK CONDITIONS
+
+Blood Pressure > 140
+Sugar Level > 180
+Cholesterol > 240
+
