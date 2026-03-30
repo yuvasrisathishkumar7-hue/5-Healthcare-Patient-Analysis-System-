@@ -145,3 +145,38 @@ The project includes several visualizations:
 | Heatmap      | Correlation between variables         | Visualizes correlation between health parameters such as age, blood pressure, sugar level, cholesterol, and heart rate. Helps identify strong or weak relationships between variables. |
 
 
+
+
+
+
+
+
+
+TECHNOLOGIES USED
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+EXPECTED OUTCOME
+
+The analysis helps to:
+
+Understand patterns in healthcare data
+
+Detect high-risk patients
+
+Study relationships between health parameters
+
+Support better healthcare monitoring and decision-making
+
+CONCLUSION
+
+This project demonstrates how healthcare data can be analyzed using Python and data science techniques. By generating synthetic data and applying Exploratory Data Analysis (EDA), meaningful insights can be derived to understand patient health conditions and identify potential health risks.
+
