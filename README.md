@@ -65,3 +65,23 @@ Perform age-group and gender-based analysis
 Study relationships between health variables
 
 Visualize the dataset using charts and graphs
+
+DATA CLEANING STEPS
+
+The following data cleaning operations were performed:
+
+Checked missing values using isnull()
+
+Filled missing numeric values using mean
+
+Standardized gender values
+
+Validated health parameter ranges
+
+Removed duplicate patient IDs
+
+Ensured correct data types for numeric columns
+
+RISK CLASSIFICATION
+
+Patients are classified into three categories based on health parameters:
