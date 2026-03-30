@@ -13,3 +13,7 @@ PROBLEM STATEMENT
 Healthcare institutions generate large volumes of patient data every day. Analyzing this data manually is time-consuming and inefficient.
 
 Additionally, real patient datasets are not easily accessible for academic purposes due to privacy and security regulations. Therefore, this project generates synthetic healthcare data and analyzes it to identify health risks and patterns.
+
+DATASET DESCRIPTION
+
+The dataset contains 10,000 synthetic patient records with the following columns:
