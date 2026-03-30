@@ -33,19 +33,35 @@ PROJECT OBJECTIVES
 The main objectives of this project are:
 
 Generate a large synthetic healthcare dataset
+
 Perform data cleaning and preprocessing
+
 Handle missing values and validate data ranges
+
 Perform statistical analysis such as mean, median, mode, and standard deviation
+
 Analyze patient health metrics:
+
 Blood pressure
+
 Sugar level
+
 Cholesterol
+
 Heart rate
+
 Classify patients into risk levels
+
 Low Risk
+
 Medium Risk
+
 High Risk
+
 Identify high-risk patients
+
 Perform age-group and gender-based analysis
+
 Study relationships between health variables
+
 Visualize the dataset using charts and graphs
