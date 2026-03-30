@@ -130,3 +130,18 @@ Gender-wise risk analysis
 
 Correlation analysis between health parameters
 
+DATA VISUALIZATION
+
+The project includes several visualizations:
+
+
+| CHART        | PURPOSE                               | GRAPH UNDERSTANDING / KEY POINTS                                                                                                                                                       |
+| ------------ | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bar Chart    | Risk level distribution               | Shows how many patients fall into Low, Medium, and High risk categories. Helps quickly identify which risk group has the highest number of patients.                                   |
+| Pie Chart    | Percentage of risk levels             | Displays the percentage share of each risk category. Useful for understanding the proportion of patients in each risk level.                                                           |
+| Histogram    | Age distribution                      | Shows how patient ages are distributed across the dataset. Helps identify which age group has the most patients.                                                                       |
+| Scatter Plot | Age vs Blood Pressure                 | Displays the relationship between age and blood pressure. Helps observe whether blood pressure increases with age.                                                                     |
+| Box Plot     | Cholesterol distribution and outliers | Shows the spread of cholesterol levels and detects outliers. Helps identify unusually high or low cholesterol values.                                                                  |
+| Heatmap      | Correlation between variables         | Visualizes correlation between health parameters such as age, blood pressure, sugar level, cholesterol, and heart rate. Helps identify strong or weak relationships between variables. |
+
+
