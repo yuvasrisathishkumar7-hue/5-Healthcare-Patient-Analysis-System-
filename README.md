@@ -144,10 +144,41 @@ The project includes several visualizations:
 | Box Plot     | Cholesterol distribution and outliers | Shows the spread of cholesterol levels and detects outliers. Helps identify unusually high or low cholesterol values.                                                                  |
 | Heatmap      | Correlation between variables         | Visualizes correlation between health parameters such as age, blood pressure, sugar level, cholesterol, and heart rate. Helps identify strong or weak relationships between variables. |
 
+BAR CHART
+
+<img width="446" height="399" alt="image" src="https://github.com/user-attachments/assets/4d1d5ae4-7069-4421-82a2-7580c58752bf" />
+
+
+
+PIE CHART
+
+<img width="328" height="309" alt="image" src="https://github.com/user-attachments/assets/5e5027c2-fd78-4008-83fb-5bdf77b6b3b7" />
 
 
 
 
+HISTOGRAM
+
+<img width="448" height="346" alt="image" src="https://github.com/user-attachments/assets/4662ec73-d09d-41a8-ad9c-20ee73cf9090" />
+
+
+
+SCATTER PLOT
+
+<img width="461" height="348" alt="image" src="https://github.com/user-attachments/assets/08d30348-dc49-45d4-a697-bb83683b855d" />
+
+
+
+
+BOX PLOT 
+
+<img width="410" height="344" alt="image" src="https://github.com/user-attachments/assets/56dc7e67-de7b-4951-9f6b-dde259c6b71b" />
+
+
+
+HEATMAP
+
+<img width="484" height="405" alt="image" src="https://github.com/user-attachments/assets/ed986bdd-8d1b-450b-ac43-ff7ca6035a5c" />
 
 
 
