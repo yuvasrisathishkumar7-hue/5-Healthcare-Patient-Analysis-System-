@@ -1,5 +1,6 @@
 Healthcare Patient Analysis System (Synthetic Data)
-📌 Project Overview
+
+Project Overview
 
 The Healthcare Patient Analysis System is a data analysis project that generates and analyzes synthetic patient health records. The system creates a dataset of 10,000 patients with important health parameters such as age, gender, blood pressure, sugar level, cholesterol, and heart rate.
 
