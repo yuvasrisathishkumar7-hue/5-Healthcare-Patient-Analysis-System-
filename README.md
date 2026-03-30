@@ -17,3 +17,13 @@ Additionally, real patient datasets are not easily accessible for academic purpo
 DATASET DESCRIPTION
 
 The dataset contains 10,000 synthetic patient records with the following columns:
+
+| COLUMN         | DESCRIPTION                   |
+| -------------- | ----------------------------- |
+| Patient_ID     | Unique patient ID             |
+| Age            | Patient age (20–80 years)     |
+| Gender         | Male / Female                 |
+| Blood_Pressure | Blood pressure level (80–180) |
+| Sugar_Level    | Blood sugar level (70–200)    |
+| Cholesterol    | Cholesterol level (150–300)   |
+| Heart_Rate     | Heart rate (60–120)           |
