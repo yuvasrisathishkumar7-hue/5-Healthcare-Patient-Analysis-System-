@@ -95,6 +95,38 @@ Patients are classified into three categories based on health parameters:
 HIGH RISK CONDITIONS
 
 Blood Pressure > 140
+
 Sugar Level > 180
+
 Cholesterol > 240
+
+DATA ANALYSIS PERFORMED
+
+The following analyses were conducted:
+
+Descriptive statistics
+
+Mean
+
+Median
+
+Mode
+
+Standard deviation
+
+Distribution analysis of:
+
+Blood pressure
+
+Sugar level
+
+Cholesterol
+
+Heart rate
+
+Age group analysis
+
+Gender-wise risk analysis
+
+Correlation analysis between health parameters
 
